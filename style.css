@@ -486,7 +486,7 @@ footer p {
   
   .myLogo img {
       width: 150px;
-      margin-left: 10rem;
+      margin-left: 8rem;
       
       
   }
@@ -519,7 +519,7 @@ footer p {
     background-color: white;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
     z-index: 1000;
-    gap: 3.5rem;
+    gap: 3rem;
     padding-left: 3.5%;
     
 }
