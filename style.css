@@ -463,13 +463,12 @@ footer p {
     }
 
      .wrapper ul li img{
-      margin-left: auto;
-      margin-right: auto; 
+      justify-content: center;
     }
 
     .wrapper1 ul {
         display: block;
-        animation: slide 5s linear infinite;
+        animation: slide 10s linear infinite;
     }
 
     .wrapper1 ul li {
