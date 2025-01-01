@@ -464,6 +464,7 @@ footer p {
 
     .wrapper1 ul {
         display: block;
+        animation: slide 20s linear infinite;
     }
 
     .wrapper1 ul li {
@@ -472,6 +473,8 @@ footer p {
 
     .wrapper1 ul li img {
       width: auto;
+      margin-left: auto;
+      margin-right: auto;
   }
 
     #contact .wrapper {
