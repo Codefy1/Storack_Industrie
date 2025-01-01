@@ -471,6 +471,15 @@ footer p {
         animation: slide 10s linear infinite;
     }
 
+    @keyframes slide {
+  from {
+    transform: translateX(100%); 
+  }
+  to {
+    transform: translateX(-100%); 
+  }
+}
+
     .wrapper1 ul li {
         margin: 10px auto;
     }
