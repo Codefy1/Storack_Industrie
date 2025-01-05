@@ -436,6 +436,12 @@ footer p {
     padding: 10px;
 }
 
+
+   .container .myLogo{
+      margin-left: auto;
+      margin-right: auto;
+    }
+
     .menu {
         flex-direction: column;
         margin-left: 0;
