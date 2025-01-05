@@ -458,9 +458,7 @@ footer p {
         flex-direction: column;
     }
 
-    .wrapper ul li {
-        margin: 10px;
-    }
+  
 
      .wrapper ul li img{
        justify-content: center;
