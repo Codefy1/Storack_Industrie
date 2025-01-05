@@ -461,7 +461,8 @@ footer p {
   
 
      .wrapper ul li img{
-       margin-left: 1rem;
+       margin-left: auto;
+      margin-right: auto;
     }
 
     .wrapper1 ul {
